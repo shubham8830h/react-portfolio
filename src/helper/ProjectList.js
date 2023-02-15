@@ -42,7 +42,7 @@ export const ProjectList = [
     name: "ToDoList",
     image: proj6,
     skills: "Javascript, React-js, HTML, CSS.",
-    link: "https://github.com/shubham8830h/react-ToDoApp",
+    link: "https://todolistfirstapp.netlify.app/",
   },
 ];
 
